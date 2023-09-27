@@ -10,19 +10,19 @@ This is a simple Slot Machine game created in JavaScript and Node.js. It provide
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
-```bash
+```sh
 git clone https://github.com/your-username/slot-machine.git
 ```
 2. Navigate to the project directory:
-```bash
+```sh
 cd slot-machine
 ```
 3. Install the required dependencies:
-```bash
+```sh
 npm install
 ```
 4. Run the project:
-```bash
+```sh
 node project.js
 ```
 5. Open your web browser and go to http://localhost:3000 to access the Slot Machine game.
