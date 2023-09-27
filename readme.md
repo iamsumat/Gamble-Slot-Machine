@@ -11,7 +11,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
 ```sh
-git clone https://github.com/your-username/slot-machine.git
+git clone https://github.com/iamsumat/project_name.git
 ```
 2. Navigate to the project directory:
 ```sh
@@ -37,9 +37,9 @@ Enjoy the thrill of playing a virtual slot machine!
 If you would like to contribute to this project, please follow these guidelines:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix: git checkout -b feature-name.
-3. Make your changes and commit them: git commit -m "Description of changes".
-4. Push your changes to your fork: git push origin feature-name.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m "Description of changes"`.
+4. Push your changes to your fork: `git push origin feature-name`.
 5. Create a pull request to merge your changes into the main repository.
 
 ## Acknowledgments
