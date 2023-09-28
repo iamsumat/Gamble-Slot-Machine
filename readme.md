@@ -29,7 +29,7 @@ node project.js
 
 
 ## Usage
-Click the "Spin" button to spin the slot machine reels.
+Follow the on-screen instructions to play the text-based game.
 The results of each spin will be displayed on the screen.
 Enjoy the thrill of playing a virtual slot machine!
 
